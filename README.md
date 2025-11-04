@@ -38,7 +38,7 @@ Trello → Gestión de tareas y organización del trabajo.
 
 Git / GitHub → Control de versiones y colaboración.
 
-# Estructura del proyecto
+## Estructura del proyecto
 
 <p align="center"><img width="529" height="269" alt="Captura de pantalla 2025-11-04 a las 20 30 14" src="https://github.com/user-attachments/assets/dde4fa87-e896-4e2d-91af-5972f53924a2" /></p>
 
@@ -56,7 +56,7 @@ git clone https://github.com/AnaAguileraMorales88/PROJECT-3-consejerita.git
 
 ## Equipo
 
-¿Tienes dudas o quieres saber más sobre el proyecto?
+### ¿Tienes dudas o quieres saber más sobre el proyecto?
 
 Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
 
