@@ -40,14 +40,8 @@ Git / GitHub → Control de versiones y colaboración.
 
 # Estructura del proyecto
 
-📂 consejito-del-dia
-├── 📄 index.html
-├── 🎨 style.css
-├── ⚙️ script.js
-├── 📁 assets
-│   ├── logo.png
-│   └── icons/
-└── 📄 README.md
+<p align="center"><img width="529" height="269" alt="Captura de pantalla 2025-11-04 a las 20 30 14" src="https://github.com/user-attachments/assets/dde4fa87-e896-4e2d-91af-5972f53924a2" /></p>
+
 
 ## Instalación y uso
 
